@@ -18,6 +18,12 @@ The name covers it all really. There are other plugins out there that do the sam
 
 WP repository: https://wordpress.org/plugins/easy-wp-smtp/
 
+#### WP Vivid
+
+It's a strange name for a backup plugin but whatever works. The open source free version of this plugin is great and it does exactly what it is supposed to, backing up, restonring and migrating sites, and hardly ever throws up a problem (although it doesn't seem to like some secruity plugins). Irritations are the fact that it doesn't let you back up to S3 compatible storage apart from Amazon, and that you can't schedule the back up time of day. Despite that it is the best and ost consistent of the very many backup plugins we've treid out.  *A paid vesion with more feaures is available*
+
+WP repository: https://wordpress.org/plugins/wpvivid-backuprestore/
+
 ---
 
 ### ...and ones we are watching
