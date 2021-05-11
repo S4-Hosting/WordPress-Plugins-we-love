@@ -24,6 +24,12 @@ It's a strange name for a backup plugin but whatever works. The open source free
 
 WP repository: https://wordpress.org/plugins/wpvivid-backuprestore/
 
+#### The SEO Framework
+
+Not every WordPress site needs an SEO plugin but used properly they can be useful. We've tried them all (almost) and this is the one that we consistently come back to. It's light, clean, fast, simple, and unlike some won't try to take over your WP admin with boxes, and messages and whatever else. 
+
+WP repository: https://wordpress.org/plugins/autodescription/
+
 ---
 
 ### ...and ones we are watching
