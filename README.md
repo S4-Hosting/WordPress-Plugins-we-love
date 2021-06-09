@@ -30,6 +30,12 @@ Not every WordPress site needs an SEO plugin but used properly they can be usefu
 
 WP repository: https://wordpress.org/plugins/autodescription/
 
+#### MainWP Child
+
+We use MainWP to keep track of outdated plugins and themes on WP sites that we host. It's just the best tool that we have found for the job. 
+
+Actually we maintain our own fork for our clients, which is closely synced with the upstream.
+
 ---
 
 ### ...and ones we are watching
