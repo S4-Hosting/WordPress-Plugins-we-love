@@ -22,7 +22,7 @@ WP repository: https://wordpress.org/plugins/easy-wp-smtp/
 
 It's a strange name for a backup plugin but whatever works. The open source free version of this plugin is great and it does exactly what it is supposed to, backing up, restonring and migrating sites, and hardly ever throws up a problem (although it doesn't seem to like some secruity plugins). Irritations are the fact that it doesn't let you back up to S3 compatible storage apart from Amazon, and that you can't schedule the back up time of day. Despite that it is the best and ost consistent of the very many backup plugins we've tried out. 
 
-Over time this plugin is becoming more bloated and complex, we don't want to use it for staging (especially when you can't push back to live without paying for premium), and we don't want it to clean up media. This is all pretty annoying and messy but it's still ann excellent backup plugin.
+Over time this plugin is becoming more bloated and complex. We don't want to use it for staging (especially when you can't push back to live without paying for premium), and we don't want it to clean up media. This is all pretty annoying and messy but it's still ann excellent backup plugin.
 
 WP repository: https://wordpress.org/plugins/wpvivid-backuprestore/
 
